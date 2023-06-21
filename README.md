@@ -52,5 +52,5 @@ to discuss what you would like to change.Don't forget to give the project a star
 Please make sure to update tests as appropriate.
 
 ## Contact
-![Phone](0758311071)
-
+0758311071 
+incase of any challenges
