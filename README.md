@@ -1,7 +1,5 @@
 # stk_push
 Lipa na Mpesa Stk push
-# stk_push
-Lipa na Mpesa Stk push
 # Mpesa Express Daraja API integration in Nodejs and express
 it's a method to send a payment notification to the user, prompting them to pay for a particular order using the stk push API. After the user completes the payment, the system cross-checks the payment status using a checkout request ID to ensure the transaction is successful.
 
@@ -54,5 +52,5 @@ to discuss what you would like to change.Don't forget to give the project a star
 Please make sure to update tests as appropriate.
 
 ## Contact
-Phone: <a href="tel:0758311071">0758311071</a>
+![Phone](0758311071)
 
